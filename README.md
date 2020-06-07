@@ -53,29 +53,20 @@ This project uses data published by data.nashville.gov from two Metro Nashville 
 6/19/2020 ..... Internal demo  
 6/25/2020  ..... Demo Day!  
 
-### **Approach Outline**  To track progress on each step I'm using the Project (kanban) board in the GitHub repository. 
-
+### **Approach Outline:**    
+To track progress on each step I'm using the Project (kanban) board in the GitHub repository. 
 - **ETL** to extract the data from data.nashville.gov; examine it to determine what transformation may be needed (if any), and then load it into Python
-
 - Determine what the **MVP** (minimum viable product) looks like for charts and for the intaractive dashboard
-
 - **EDA** (exploratory data analysis). Outline of primary steps (not a comprehensive list of *all* steps)  
     - Examine data types (esp. dates and geography/location/lat&lng)  
     - Look for nulls  
     - Understand what unique values are in each column and seeing which ones are most prevelant and most relevant to answering the data questions
     - Examine statistics for each series with numerical values  
-
-
 - Determine the best methods for either merging and/or subsetting the data to facilitate creating the charts and creating the dashboard. Explore the answers to the data questions
-
 - Validate that the charts are showing information correctly, with no *irrelevant* data included, and not *relevant* data inadvertently excluded
-
 - Create charts and graphs
-
 - Create dashboard
-
 - Prepare presentation and record demo
-
 - Prepare for podcast interview and demo day
 
 
