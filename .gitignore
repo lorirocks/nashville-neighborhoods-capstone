@@ -9,8 +9,9 @@ __pycache__/
 # C extensions
 *.so
 
-# Data
-/data
+# Data  REMOVED DATA FROM GITIGNORE 6/12/2020
+# I want the data to be uploaded, to show interim files, etc.
+
 
 # Distribution / packaging
 .Python
