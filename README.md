@@ -27,12 +27,15 @@ I’m drawn to this project because it honors my family legacy. My father had a 
 - In instances where zoning changes are sought, might those be a leading indicator of a subsequent increase in building permit applications? If so, what is the average time lag?      
 
 **How can growth trends be researched at the neighborhood level?**   
-I’ll accomplish this by looking at building permits within neighborhood association boundaries throughout Nashville. According to an article about building permits in Investopedia:   
+Growth trends are visible through building permits:  
 *“Since all related factors associated with the construction of a building are important economic activities (for example, financing and employment), the building permit report can give a major hint as to the state of the economy in the near future.”*  
-https://www.investopedia.com/terms/b/building-permits.asp   
+https://www.investopedia.com/terms/b/building-permits.asp 
 
+Neighborhood Assocations are a great way to look at trends at a neighborhood level.  
+![Neighborhood Associations](./assets/neighborhood_assoc.PNG)
+ 
 **How can residents find information about current and proposed growth?**  
-Providing efficient access to relevant information is a passion of mine. In addition to researching trends, I also want to provide an interactive dashboard prototype, designed to pull information from several datasets simultaneously. The user will be able to input search criteria, such as a zip code or Neighborhood Association, and instantly see key information about zoning change requests, building permit applications, and building permits issued in their area. This is far more efficient than having to search each data source independently.   
+I'll  provide an interactive dashboard prototype, designed to pull information from several datasets simultaneously.   
 *Back to [Contents](#Contents)*   
 
 ### **Known Issues and Challenges**   
