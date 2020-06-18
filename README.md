@@ -53,6 +53,7 @@ This project uses data published by data.nashville.gov from two Metro Nashville 
 - Building Dept. Permits Issued (rolling three years) 
 - Planning/Zoning Dept. Development Applications (all active applications, and prior two months of completed applications) 
 - Neighborhood Assoc. Boundaries (GIS)   
+- Davidson County  Border (GIS)
 *Back to [Contents](#Contents)*
 
 **Tools**
