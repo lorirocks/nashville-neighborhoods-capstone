@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20201.20.0518.1719                               -->
+<workbook original-version='18.1' source-build='2020.1.4 (20201.20.0518.1719)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources />
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{374919A2-7D92-479B-ACBF-E874CA71B9FC}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{E16F1C89-1248-4AE2-B3D4-BCB216F8542D}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='576' name='Sheet 1' width='576'>
+      iVBORw0KGgoAAAANSUhEUgAAAkAAAAJACAYAAABlmtk2AAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAAJ9UlEQVR4nO3WMQEAIAzAMMC/5+ECjiYKenbPzCwAgJDzOwAA4DUDBADkGCAAIMcAAQA5
+      BggAyDFAAECOAQIAcgwQAJBjgACAHAMEAOQYIAAgxwABADkGCADIMUAAQI4BAgByDBAAkGOA
+      AIAcAwQA5BggACDHAAEAOQYIAMgxQABAjgECAHIMEACQY4AAgBwDBADkGCAAIMcAAQA5BggA
+      yDFAAECOAQIAcgwQAJBjgACAHAMEAOQYIAAgxwABADkGCADIMUAAQI4BAgByDBAAkGOAAIAc
+      AwQA5BggACDHAAEAOQYIAMgxQABAjgECAHIMEACQY4AAgBwDBADkGCAAIMcAAQA5BggAyDFA
+      AECOAQIAcgwQAJBjgACAHAMEAOQYIAAgxwABADkGCADIMUAAQI4BAgByDBAAkGOAAIAcAwQA
+      5BggACDHAAEAOQYIAMgxQABAjgECAHIMEACQY4AAgBwDBADkGCAAIMcAAQA5BggAyDFAAECO
+      AQIAcgwQAJBjgACAHAMEAOQYIAAgxwABADkGCADIMUAAQI4BAgByDBAAkGOAAIAcAwQA5Bgg
+      ACDHAAEAOQYIAMgxQABAjgECAHIMEACQY4AAgBwDBADkGCAAIMcAAQA5BggAyDFAAECOAQIA
+      cgwQAJBjgACAHAMEAOQYIAAgxwABADkGCADIMUAAQI4BAgByDBAAkGOAAIAcAwQA5BggACDH
+      AAEAOQYIAMgxQABAjgECAHIMEACQY4AAgBwDBADkGCAAIMcAAQA5BggAyDFAAECOAQIAcgwQ
+      AJBjgACAHAMEAOQYIAAgxwABADkGCADIMUAAQI4BAgByDBAAkGOAAIAcAwQA5BggACDHAAEA
+      OQYIAMgxQABAjgECAHIMEACQY4AAgBwDBADkGCAAIMcAAQA5BggAyDFAAECOAQIAcgwQAJBj
+      gACAHAMEAOQYIAAgxwABADkGCADIMUAAQI4BAgByDBAAkGOAAIAcAwQA5BggACDHAAEAOQYI
+      AMgxQABAjgECAHIMEACQY4AAgBwDBADkGCAAIMcAAQA5BggAyDFAAECOAQIAcgwQAJBjgACA
+      HAMEAOQYIAAgxwABADkGCADIMUAAQI4BAgByDBAAkGOAAIAcAwQA5BggACDHAAEAOQYIAMgx
+      QABAjgECAHIMEACQY4AAgBwDBADkGCAAIMcAAQA5BggAyDFAAECOAQIAcgwQAJBjgACAHAME
+      AOQYIAAgxwABADkGCADIMUAAQI4BAgByDBAAkGOAAIAcAwQA5BggACDHAAEAOQYIAMgxQABA
+      jgECAHIMEACQY4AAgBwDBADkGCAAIMcAAQA5BggAyDFAAECOAQIAcgwQAJBjgACAHAMEAOQY
+      IAAgxwABADkGCADIMUAAQI4BAgByDBAAkGOAAIAcAwQA5BggACDHAAEAOQYIAMgxQABAjgEC
+      AHIMEACQY4AAgBwDBADkGCAAIMcAAQA5BggAyDFAAECOAQIAcgwQAJBjgACAHAMEAOQYIAAg
+      xwABADkGCADIMUAAQI4BAgByDBAAkGOAAIAcAwQA5BggACDHAAEAOQYIAMgxQABAjgECAHIM
+      EACQY4AAgBwDBADkGCAAIMcAAQA5BggAyDFAAECOAQIAcgwQAJBjgACAHAMEAOQYIAAgxwAB
+      ADkGCADIMUAAQI4BAgByDBAAkGOAAIAcAwQA5BggACDHAAEAOQYIAMgxQABAjgECAHIMEACQ
+      Y4AAgBwDBADkGCAAIMcAAQA5BggAyDFAAECOAQIAcgwQAJBjgACAHAMEAOQYIAAgxwABADkG
+      CADIMUAAQI4BAgByDBAAkGOAAIAcAwQA5BggACDHAAEAOQYIAMgxQABAjgECAHIMEACQY4AA
+      gBwDBADkGCAAIMcAAQA5BggAyDFAAECOAQIAcgwQAJBjgACAHAMEAOQYIAAgxwABADkGCADI
+      MUAAQI4BAgByDBAAkGOAAIAcAwQA5BggACDHAAEAOQYIAMgxQABAjgECAHIMEACQY4AAgBwD
+      BADkGCAAIMcAAQA5BggAyDFAAECOAQIAcgwQAJBjgACAHAMEAOQYIAAgxwABADkGCADIMUAA
+      QI4BAgByDBAAkGOAAIAcAwQA5BggACDHAAEAOQYIAMgxQABAjgECAHIMEACQY4AAgBwDBADk
+      GCAAIMcAAQA5BggAyDFAAECOAQIAcgwQAJBjgACAHAMEAOQYIAAgxwABADkGCADIMUAAQI4B
+      AgByDBAAkGOAAIAcAwQA5BggACDHAAEAOQYIAMgxQABAjgECAHIMEACQY4AAgBwDBADkGCAA
+      IMcAAQA5BggAyDFAAECOAQIAcgwQAJBjgACAHAMEAOQYIAAgxwABADkGCADIMUAAQI4BAgBy
+      DBAAkGOAAIAcAwQA5BggACDHAAEAOQYIAMgxQABAjgECAHIMEACQY4AAgBwDBADkGCAAIMcA
+      AQA5BggAyDFAAECOAQIAcgwQAJBjgACAHAMEAOQYIAAgxwABADkGCADIMUAAQI4BAgByDBAA
+      kGOAAIAcAwQA5BggACDHAAEAOQYIAMgxQABAjgECAHIMEACQY4AAgBwDBADkGCAAIMcAAQA5
+      BggAyDFAAECOAQIAcgwQAJBjgACAHAMEAOQYIAAgxwABADkGCADIMUAAQI4BAgByDBAAkGOA
+      AIAcAwQA5BggACDHAAEAOQYIAMgxQABAjgECAHIMEACQY4AAgBwDBADkGCAAIMcAAQA5BggA
+      yDFAAECOAQIAcgwQAJBjgACAHAMEAOQYIAAgxwABADkGCADIMUAAQI4BAgByDBAAkGOAAIAc
+      AwQA5BggACDHAAEAOQYIAMgxQABAjgECAHIMEACQY4AAgBwDBADkGCAAIMcAAQA5BggAyDFA
+      AECOAQIAcgwQAJBjgACAHAMEAOQYIAAgxwABADkGCADIMUAAQI4BAgByDBAAkGOAAIAcAwQA
+      5BggACDHAAEAOQYIAMgxQABAjgECAHIMEACQY4AAgBwDBADkGCAAIMcAAQA5BggAyDFAAECO
+      AQIAcgwQAJBjgACAHAMEAOQYIAAgxwABADkGCADIMUAAQI4BAgByDBAAkGOAAIAcAwQA5Bgg
+      ACDHAAEAOQYIAMgxQABAjgECAHIMEACQY4AAgBwDBADkGCAAIMcAAQA5BggAyDFAAECOAQIA
+      cgwQAJBjgACAHAMEAOQYIAAgxwABADkGCADIMUAAQI4BAgByDBAAkGOAAIAcAwQA5BggACDH
+      AAEAOQYIAMgxQABAjgECAHIMEACQY4AAgBwDBADkGCAAIMcAAQA5BggAyDFAAECOAQIAcgwQ
+      AJBjgACAHAMEAOQYIAAgxwABADkGCADIMUAAQI4BAgByDBAAkGOAAIAcAwQA5BggACDHAAEA
+      OQYIAMgxQABAjgECAHIup2IIfPpxjZMAAAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>
