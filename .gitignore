@@ -9,8 +9,8 @@ __pycache__/
 # C extensions
 *.so
 
-# Data  REMOVED DATA FROM GITIGNORE 6/12/2020
-# I want the data to be uploaded, to show interim files, etc.
+# Data - Added to gitignore 6/19/2020 (will include info about data structure in Readme)
+/data
 
 
 # Distribution / packaging
