@@ -24,7 +24,7 @@ I’m drawn to this project because it honors my family legacy. My father had a 
 ### **Data Questions**  
 - Which neighborhoods have had the most, and the least, growth during the past three years based on count of building permits by type, and by cost of construction.   
 - Do any neighborhoods have recent increases in building permit applications which may signal growth in the near future?   
-- In instances where zoning changes are sought, might those be a leading indicator of a subsequent increase in building permit applications? If so, what is the average time lag?      
+   
 
 **How can growth trends be researched at the neighborhood level?**   
 Growth trends are visible through building permits:  
@@ -41,8 +41,6 @@ I'll  provide an interactive dashboard prototype, designed to pull information f
 ### **Known Issues and Challenges**   
 *Potential duplication of building permit counts:* The building permit data includes many Permit Types which are sometimes used at different stages of building at a particular address. For example, a residence at 1000 Gilmore Ave had a permit issued on 5/9/2018 for Residential-Rehab, and a second permit issued a short time later on 5/20/2018 for Residential-Addition. To prevent double-counting, the address and date of issuance will need to be taken into consideration when counting the number of Residential or Commercial building-related permits.   
 
-*Limited data for planning/zoning:* The data for planning/zoning change applications is only retained for a rolling two months after an application has been completed (i.e., denied or approved). This will limit the ability to explore correlations with subsequent or concurrent building permits.   
-
 *Known irregularities due to recent unique events:* The data may have anomalies caused by the March 3rd tornado, the COVID-19 shutdown that started on March 13th, and the “I Can’t Breathe” protests that started May 29th. These events may cause artificial highs or lows in the data that might skew trendlines.    
 *Back to [Contents](#Contents)*
 
@@ -51,7 +49,6 @@ I'll  provide an interactive dashboard prototype, designed to pull information f
 This project uses data published by data.nashville.gov from two Metro Nashville departments. The data is updated nightly at 2:00 a.m. The Neighborhood Association Boundaries map will be used as well.    
 - Building Dept. Permit Applications (rolling three years) 
 - Building Dept. Permits Issued (rolling three years) 
-- Planning/Zoning Dept. Development Applications (all active applications, and prior two months of completed applications) 
 - Neighborhood Assoc. Boundaries (GIS)   
 - Davidson County  Border (GIS)
 *Back to [Contents](#Contents)*
