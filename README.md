@@ -64,8 +64,7 @@ This project uses data published by data.nashville.gov from two Metro Nashville 
 5/22/2020 ..... Get the data   
 6/08/2020 ..... Clean and explore the data, define the MVPs for the charts and the dashboard   
 6/15/2020 ..... Research correlations, create charts and dashboard draft  
-6/18/2020 ..... Complete presentation    
-6/19/2020 ..... Internal demo  
+6/22/2020 ..... Internal demo  
 6/25/2020 ..... Demo Day!    
 *Back to [Contents](#Contents)*
 
