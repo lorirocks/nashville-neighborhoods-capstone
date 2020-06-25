@@ -6,6 +6,7 @@
 - [Data Questions](#Data-Questions)
 - [Known Issues and Challenges](#Known-Issues-and-Challenges)
 - [Data Sources and Tools](#Data-Sources-and-Tools)
+- [Tableau Public Link](#Tableau-Public-Link)
 - [Schedule](#Schedule)
 - [Approach Outline](#Approach-Outline)
 - [Acknowledgements](#Acknowledgements)
@@ -64,6 +65,10 @@ This project uses data published by data.nashville.gov from two Metro Nashville 
 - `Tableau`, version 2020.1.4
 - `MS Excel`, Microsoft 365       
 *Back to [Contents](#Contents)*
+
+### **Tableau Public Link**
+Link to full presentation on Tableau Public
+https://public.tableau.com/profile/loributler#!/vizhome/Whats_Happening_Neighborhood_aka_Nashville_Growth/Story1
 
 ### **Schedule**
 5/22/2020 ..... Get the data   
